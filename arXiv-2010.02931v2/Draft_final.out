@@ -1,0 +1,30 @@
+\BOOKMARK [1][-]{section.1}{Introduction: the overlap between particle physics and quantum information science}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Outline}{section.1}% 2
+\BOOKMARK [1][-]{section.2}{Quantum circuits and entanglement}{}% 3
+\BOOKMARK [2][-]{subsection.2.1}{Experiment 1: Simple quantum circuit}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.2}{Entanglement and Bell states }{section.2}% 5
+\BOOKMARK [2][-]{subsection.2.3}{Experiment 2: Create a Bell state}{section.2}% 6
+\BOOKMARK [2][-]{subsection.2.4}{Entanglement and the EPR paradox}{section.2}% 7
+\BOOKMARK [2][-]{subsection.2.5}{Experiment 3: A circuit to SWAP two qubit states}{section.2}% 8
+\BOOKMARK [2][-]{subsection.2.6}{The no-cloning theorem}{section.2}% 9
+\BOOKMARK [1][-]{section.3}{Quantum teleportation}{}% 10
+\BOOKMARK [2][-]{subsection.3.1}{Experiment 4: A circuit for quantum teleportation}{section.3}% 11
+\BOOKMARK [2][-]{subsection.3.2}{Experiment 5: Quantum teleportation without measurement}{section.3}% 12
+\BOOKMARK [1][-]{section.4}{Information and measurement}{}% 13
+\BOOKMARK [2][-]{subsection.4.1}{Classical measurement theory}{section.4}% 14
+\BOOKMARK [2][-]{subsection.4.2}{Review of classical claims, with help from the LHC}{section.4}% 15
+\BOOKMARK [1][-]{section.5}{Quantum entropy and quantum decoherence}{}% 16
+\BOOKMARK [2][-]{subsection.5.1}{The density matrix and quantum entropy}{section.5}% 17
+\BOOKMARK [2][-]{subsection.5.2}{Quantum decoherence}{section.5}% 18
+\BOOKMARK [1][-]{section.6}{Quantum measurement}{}% 19
+\BOOKMARK [2][-]{subsection.6.1}{Kraus operators}{section.6}% 20
+\BOOKMARK [2][-]{subsection.6.2}{The SWAP operator and ``collapse" of the wavefunction}{section.6}% 21
+\BOOKMARK [1][-]{section.7}{Bell inequalities}{}% 22
+\BOOKMARK [1][-]{section.8}{Area law for entanglement entropy in quantum field theory}{}% 23
+\BOOKMARK [2][-]{subsection.8.1}{Shannon entropy for a thermal ensemble of quantum oscillators}{section.8}% 24
+\BOOKMARK [2][-]{subsection.8.2}{A thermofield double from coupled oscillators}{section.8}% 25
+\BOOKMARK [2][-]{subsection.8.3}{Area law for entanglement entropy of scalar fields}{section.8}% 26
+\BOOKMARK [1][-]{section.9}{Simulating quantum field theory on a quantum computer}{}% 27
+\BOOKMARK [2][-]{subsection.9.1}{Scalar field theory}{section.9}% 28
+\BOOKMARK [2][-]{subsection.9.2}{Gauge theories}{section.9}% 29
+\BOOKMARK [1][-]{section.10}{Final thoughts}{}% 30
