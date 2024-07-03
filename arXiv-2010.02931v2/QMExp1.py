@@ -38,7 +38,7 @@ circuit.append(cirq.X(qbit))
 sim = cirq.Simulator()
 result = sim.simulate(circuit)
 printmd("\n**Bloch Sphere of the qubit in the final state:**")
-state = cirq.bloch_vector_from_state_vector(result.final_state,0)
+state = cirq.bloch_vector_from_state_vector(result.final_state_vector,0)
 print("x: ", around(state[0], 4), " y: ", around(state[1], 4),
       " z: ", around(state[2], 4))
 
