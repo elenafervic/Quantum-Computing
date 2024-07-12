@@ -29,13 +29,15 @@ def printmd(string):
 
 # Get a qubit and a circuit
 qbit = cirq.LineQubit(0)#Initialise qubit in state 0.
+print(qbit)
+
 circuit = cirq.Circuit()#Initialise the cirquit (empty for now)
 
 # Add an X gate: acts like the Pauli Matrix sigma_x
-circuit.append(cirq.X(qbit))
+circuit.append(cirq.X(qbit))#Set the x gate to act on the first qubit. But it hasn't actually run the circuit.
 
 # Run a simple simulation that extracts the wavefunction of this state
-sim = cirq.Simulator()
+sim = cirq.Simulator()#Maybe this is a specific instance of the class???
 result = sim.simulate(circuit)
 #printmd("\n**Bloch Sphere of the qubit in the final state:**")# This was the original spelling, but it looked weird on vs code.
 print("\n**Bloch Sphere of the qubit in the final state:**")
