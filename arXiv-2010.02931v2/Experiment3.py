@@ -1,3 +1,29 @@
+import cirq
+from cirq.circuits import InsertStrategy
+import tensorflow as tf
+
+import numpy as np
+from numpy import around, log2, isreal, all, trace, conj, outer
+from numpy import matrix, eye, count_nonzero, around, sum, save
+
+from math import factorial, sqrt, pi #I think this one is standard for python.
+from cmath import exp
+
+import scipy, sympy
+from scipy import interpolate
+from sympy import Symbol
+
+
+import matplotlib.pyplot as plt
+from matplotlib import gridspec
+
+import gc, random, timeit
+from timeit import default_timer as timer
+from IPython.display import Markdown, display
+
+def printmd(string):
+    display(Markdown(string))
+
 # Get two qubits and a circuit
 qubit = [cirq.LineQubit(x) for x in range(2)]
 circuit = cirq.Circuit()
